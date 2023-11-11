@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React Native**
 
-- 👯 I’m looking to collaborate on **Serverless Team**
+- 👯 I’m looking to collaborate on **the company of dreams**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alla-kaplia](https://www.linkedin.com/in/alla-kaplia)
 
