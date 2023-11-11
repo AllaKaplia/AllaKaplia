@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer</h3>
 
 [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
-<a href="https://u8views.com/github/AllaKaplia"><img src="https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg"></a>
+
 
 - 🌱 I’m currently learning **TypeScript, React Native**
 
