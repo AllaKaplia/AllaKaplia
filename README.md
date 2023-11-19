@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alla-kaplia](https://www.linkedin.com/in/alla-kaplia)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **my technology stack if you're interested in hiring me**
 
 - 📫 How to reach me **kaplia.alla18@gmail.com**
 
