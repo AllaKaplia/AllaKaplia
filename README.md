@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **TypeScript, React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **the company of dreams**
 
