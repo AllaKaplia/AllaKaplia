@@ -35,6 +35,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 
 
-<br><br><br>
-
 [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
