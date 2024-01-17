@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kaplia.alla18@gmail.com**
 
-- ⚡ Fun fact **I’m interested in IT technologies💻, history Ukraine 🇺🇦, sport 🏓 🏸 🎳, I like mountains ⛰ and camping 🏕**
+- ⚡ Fun fact: **I’m interested in IT technologies💻, history Ukraine 🇺🇦, sport 🏓 🏸 🎳, I like mountains ⛰ and camping 🏕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
