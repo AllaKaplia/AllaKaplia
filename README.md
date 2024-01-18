@@ -37,6 +37,7 @@
 
 
 [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?AllaKaplia=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
