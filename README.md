@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alla Kaplia</h1>
 <h3 align="center">Back-end developer</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" />   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" />   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
 
 ![I am Back-end developer](https://media.licdn.com/dms/image/D4D16AQE2ITm633uhOg/profile-displaybackgroundimage-shrink_350_1400/0/1704064614376?e=1710979200&v=beta&t=kYjSDIG6xeuAG0CLVJDO8Z23VjAS1LfjIysyIycAxt4)
 
@@ -26,7 +26,6 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mongodb,postman,git,github,ts,react,redux,html,css,sass,tailwind,vscode)](https://skillicons.dev)
 
 
-[![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
