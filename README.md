@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin,discord,gmail,)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
