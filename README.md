@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alla Kaplia</h1>
-<h3 align="center">Back-end developer</h3>
+<h3 align="center">I am Back-end developer</h3>
 
-
+![I am Back-end developer](https://media.licdn.com/dms/image/D4D16AQE2ITm633uhOg/profile-displaybackgroundimage-shrink_350_1400/0/1704064614376?e=1710979200&v=beta&t=kYjSDIG6xeuAG0CLVJDO8Z23VjAS1LfjIysyIycAxt4)
 
 - 🌱 I’m currently learning **TypeScript**
 
