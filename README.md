@@ -16,15 +16,12 @@
 - ⚡ Fun fact: **I’m interested in IT technologies💻, history Ukraine 🇺🇦, sport 🏓 🏸 🎳, I like mountains ⛰ and camping 🏕**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alla-kaplia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alla-kaplia/" height="30" width="40" /></a>
-<a href="https://discord.gg/kaplia.alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaplia.alla" height="30" width="40" /></a>
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin,discord,gmail,)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,mongodb,postman,git,github,bash,ts,react,redux,html,css,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mongodb,postman,git,github,bash,ts,react,redux,html,css,sass,tailwind,vscode)](https://skillicons.dev)
 
 
 [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
