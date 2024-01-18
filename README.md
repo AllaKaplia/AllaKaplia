@@ -24,9 +24,13 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaplia.alla)
 
 
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mongodb,postman,git,github,ts,react,redux,html,css,sass,tailwind,vscode)](https://skillicons.dev)
+<h2 align="left">My skills</h3>
+<h3 align="left">Frontend:</h3>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind)](https://skillicons.dev)
+<h3 align="left">Backend:</h3>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+<h3 align="left">Development Tools: </h3>
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,postman)](https://skillicons.dev)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
