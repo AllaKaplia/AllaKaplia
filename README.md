@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alla-kaplia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alla-kaplia/" height="30" width="40" /></a>
 <a href="https://discord.gg/kaplia.alla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaplia.alla" height="30" width="40" /></a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AllaKaplia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alla-kaplia//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](kaplia.alla18@gmail.com)  
+
 
 <h3 align="left">Languages and Tools:</h3>
  
