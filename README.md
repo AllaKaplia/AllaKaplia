@@ -24,7 +24,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaplia.alla)
 
 
-<h2 align="left">My skills</h3>
+<h2 align="center">My skills</h3>
 <h3 align="left">Frontend:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,tailwind)](https://skillicons.dev)
