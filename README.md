@@ -19,6 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaplia.alla18@gmail.com)
+
+
 [![My Skills](https://skillicons.dev/icons?i=linkedin,discord,gmail,)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
