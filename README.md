@@ -16,12 +16,12 @@
 - ⚡ Fun fact: **I’m interested in IT technologies💻, history Ukraine 🇺🇦, sport 🏓 🏸 🎳, I like mountains ⛰ and camping 🏕**
 
 <h3 align="left">Connect with me:</h3>
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" alt="Cat with Wry Smile" width="25" height="25" />
 [![My Skills](https://skillicons.dev/icons?i=linkedin,discord,gmail,)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mongodb,postman,git,github,bash,ts,react,redux,html,css,sass,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,express,mongodb,postman,git,github,ts,react,redux,html,css,sass,tailwind,vscode)](https://skillicons.dev)
 
 
 [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
