@@ -39,4 +39,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaKaplia&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaKaplia&size_weight=1&count_weight=0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaKaplia&size_weight=0&count_weight=1&theme=merko)
