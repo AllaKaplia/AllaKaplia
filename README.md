@@ -33,3 +33,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaKaplia&size_weight=0&count_weight=1&theme=merko)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaKaplia&show_icons=true&theme=merko)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AllaKaplia)](https://github.com/KnlnKS/leetcode-stats)
