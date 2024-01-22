@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="25" height="25" />   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
 
-![I am Back-end developer](https://media.licdn.com/dms/image/D4D16AQE2ITm633uhOg/profile-displaybackgroundimage-shrink_350_1400/0/1704064614376?e=1710979200&v=beta&t=kYjSDIG6xeuAG0CLVJDO8Z23VjAS1LfjIysyIycAxt4)
+![I am Back-end developer](https://media.licdn.com/dms/image/D4D16AQHkVMm-8wZlbQ/profile-displaybackgroundimage-shrink_350_1400/0/1705929939492?e=1711584000&v=beta&t=fMYUrjDBE1yWP8pqko15jqEkbkJptSHZdfmyeJjoEPk)
 
 - 🌱 I’m currently learning **TypeScript**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
