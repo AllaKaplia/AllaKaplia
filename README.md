@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alla-kaplia/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AllaKaplia)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kaplia.alla)
-
+[![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h2 align="center">My skills</h3>
 <h3 align="left">Frontend:</h3>
@@ -31,7 +31,7 @@
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Development Tools: </h3>
 
