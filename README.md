@@ -32,7 +32,7 @@
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,MongoDB,postgres)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Development Tools: </h3>
 
