@@ -5,7 +5,7 @@
 
 ![I am Back-end developer](https://media.licdn.com/dms/image/D4D16AQHkVMm-8wZlbQ/profile-displaybackgroundimage-shrink_350_1400/0/1705929939492?e=1717632000&v=beta&t=m9dmfcaX4BVrPtQMNXy8CY9_RjiLqtz-EsPZApYllSQ)
 
-- 🌱"I am currently in the process of learning and practising." **Next.js**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+- 🌱I am currently in the process of learning and practising: **Next.js** [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
 - 👯 I’m looking to collaborate on **the company of dreams**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 
