@@ -5,7 +5,7 @@
 
 ![I am Back-end developer](https://media.licdn.com/dms/image/v2/D4D16AQE0sgErxcyAfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729495345245?e=1735171200&v=beta&t=e-k6Rjx2q4exfpLKE32HA_63usD1HZj2wzjmk6PHuMo)
 
-- 🌱I am currently in the process of learning and practising: **Next.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
+- 🌱I am currently in the process of learning and practising: **Nest.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
 - 👯 I’m looking to collaborate on **the company of dreams**  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25" />
 
