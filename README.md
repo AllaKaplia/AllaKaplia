@@ -29,11 +29,11 @@
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Frontend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,sass,tailwind)](https://skillicons.dev)
 
 <h3 align="left">Development Tools: </h3>
 
