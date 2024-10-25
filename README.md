@@ -26,13 +26,14 @@
 [![GitLub](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AllaKaplia)
 
 <h2 align="center">My skills</h3>
-<h3 align="left">Frontend:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind)](https://skillicons.dev)
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
+
+<h3 align="left">Frontend:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,sass,tailwind)](https://skillicons.dev)
 
 <h3 align="left">Development Tools: </h3>
 
