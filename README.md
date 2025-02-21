@@ -37,7 +37,7 @@
 
 <h3 align="left">Development Tools: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,npm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,npm,yarn,postman)](https://skillicons.dev)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
