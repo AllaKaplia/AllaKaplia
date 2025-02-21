@@ -25,6 +25,14 @@
 [![DOU](https://s.dou.ua/assets/img/favicon32.png)](https://dou.ua/users/alla-kaplia/topics/)
 [![GitLub](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/AllaKaplia)
 
+<h2 align="center">Languages :</h3>
+
+| 🏴‍☠️ Language  | 🏴‍☠️ Language  |
+|---------------|---------------|
+| 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
+| 🇫🇷 **French** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
+
+
 <h2 align="center">My skills</h3>
 
 <h3 align="left">Backend:</h3>
