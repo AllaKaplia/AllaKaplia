@@ -28,8 +28,8 @@
 <h2 align="center">Languages :</h3>
 
 | 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
+|---------------------------|------------------------------|
 | 🇫🇷 **French** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
-
 
 
 <h2 align="center">My skills</h3>
