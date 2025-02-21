@@ -29,7 +29,7 @@
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,npm,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Frontend:</h3>
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">Development Tools: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,bash,npm,postman)](https://skillicons.dev)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllaKaplia&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
