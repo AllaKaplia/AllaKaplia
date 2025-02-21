@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
 
-![Banner]([https://example.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQE0sgErxcyAfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729495345245?e=1745452800&v=beta&t=Q5R-2enm7JtW2eEAHA-O3Ysv6_hAEDdVfK7zlYHsWQU))
+![Banner](https://drive.google.com/file/d/1n7fmOLf6dWS_rw-q-O8gp7m-cp5J2ce1/view?usp=sharing)
 
 - 🌱I am currently in the process of learning and practising: **Nest.js** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" />
 
