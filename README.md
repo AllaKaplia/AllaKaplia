@@ -29,7 +29,7 @@
 
 <h3 align="left">Backend:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,npm,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
 
 <h3 align="left">Frontend:</h3>
 
