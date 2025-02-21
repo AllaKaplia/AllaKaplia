@@ -27,10 +27,10 @@
 
 <h2 align="center">Languages :</h3>
 
-| 🏴‍☠️ || Lang || 🏴‍☠️ | Lang  |
-|---------------|---------------|---------------|---------------|
-| 🇺🇦 | **Ukrainian** - Native | 🇬🇧 | **English** - Intermediate |
-| 🇫🇷 | **French** - Pre-Intermediate | 🇵🇱|  **Polish** - Pre-Intermediate |
+|---------------|---------------|
+| 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
+| 🇫🇷 **French** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
+
 
 
 <h2 align="center">My skills</h3>
