@@ -27,6 +27,7 @@
 
 <h2 align="center">Languages :</h3>
 
+
 | 🇺🇦 **Ukrainian** - Native | 🇬🇧 **English** - Intermediate |
 |---------------------------|------------------------------|
 | 🇫🇷 **French** - Pre-Intermediate | 🇵🇱 **Polish** - Pre-Intermediate |
