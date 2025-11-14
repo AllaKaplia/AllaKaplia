@@ -40,9 +40,12 @@
 
 <h2 align="center">My skills</h2>
 
-<h3 align="left">Backend:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,express,mongodb,postgres,docker)](https://dou.ua/users/alla-kaplia/topics/)
+<p align="center">
+  <h3 align="left">Backend:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,js,ts,express,mongodb,postgres,docker" />
+  </a>
+</p>
 
 <h3 align="left">Frontend:</h3>
 
