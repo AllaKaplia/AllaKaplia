@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alla Kaplia</h1>
-<h3 align="center">Back-end Developer</h3>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" />  
-[![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
+<h3 align="center">Back-end developer</h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="25" height="25" /> [![Alla Kaplia profile views](https://u8views.com/api/v1/github/profiles/118439299/views/day-week-month-total-count.svg)](https://u8views.com/github/AllaKaplia)
 
 ![Banner](https://drive.google.com/uc?export=view&id=1Nwyui81clQyky082lRDb5GLJdjZTJdiP)
 
